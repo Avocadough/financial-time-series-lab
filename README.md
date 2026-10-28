@@ -1,4 +1,18 @@
-# Financial time-series forecasting experiments
+<div align="center">
+
+# Financial Time Series Lab
+
+**Exploring forecasting, signal processing and technical indicators.**
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)
+![Notebooks](https://img.shields.io/badge/Jupyter-Experiments-F37626?logo=jupyter&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Research%20Prototype-5A6472)
+
+[Overview](#overview) · [Project files](#what-is-here) · [Run](#run-the-extracted-indicator-functions) · [Limitations](#interpreting-the-historical-notebooks)
+
+</div>
+
+## Overview
 
 A collection of historical notebooks exploring financial time-series analysis, digital signal processing and forecasting methods. The experiments include autoregression/ARIMA, Fourier transforms, Kalman smoothing, LSTMs and technical indicators. These are research explorations, not a validated trading system or evidence of profitable trading.
 
